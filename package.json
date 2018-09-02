@@ -1,0 +1,22 @@
+{
+  "name": "clear-me-identity",
+  "version": "1.0.0",
+  "description": "Clear-me solidity contracts.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clear-me/clear-me-identity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clear-me/clear-me-identity/issues"
+  },
+  "homepage": "https://github.com/clear-me/clear-me-identity#readme"
+}
